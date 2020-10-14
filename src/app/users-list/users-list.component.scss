@@ -1,0 +1,21 @@
+.gray {
+  background: #eee;
+}
+
+.item {
+  display: inline-block;
+  width: 180px;
+}
+
+.inline {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-end;
+}
+
+.line {
+  display: flex;
+  margin-top: 20px;
+  align-items: center;
+  justify-content: space-between;
+}
